@@ -6,5 +6,5 @@
 
 📚 I'm a quick learner and always open to new technologies and frameworks. Let's build amazing user experiences together!
 
-🔗 Connect with me on LinkedIn: linkedin.com/in/niraimathipandiyan
+🔗 Connect with me on LinkedIn:[linkedin.com/in/niraimathipandiyan]
 

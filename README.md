@@ -6,9 +6,11 @@
 
 📚 I'm a quick learner and always open to new technologies and frameworks. Let's build amazing user experiences together!
 
-🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/niraimathipandiyan/
+🔗Feel free to connect with me on :
 
-✉  Email: niraimathi.anupan@gmail.com
+LinkedIn: https://www.linkedin.com/in/niraimathipandiyan/
 
-📥  Github: https://github.com/nirai14
+  Email: niraimathi.anupan@gmail.com
+
+  Github: https://github.com/nirai14
 

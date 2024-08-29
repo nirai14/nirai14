@@ -1,6 +1,6 @@
 👋 Hello World! I'm Niraimathi, a passionate frontend developer eager to learn and grow in the world of web development.
 
-🌟 Skills: HTML5, CSS3, JavaScript, React.js, Tailwind Css, Redux.
+🌟 Skills: HTML5, CSS3, JavaScript, React.js, Tailwind Css.
 
 💼 Currently seeking opportunities to contribute and collaborate on exciting projects.
 

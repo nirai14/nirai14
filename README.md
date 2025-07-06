@@ -1,10 +1,10 @@
-👋 Hello World! I'm Niraimathi, a passionate frontend developer eager to learn and grow in the world of web development.
+👋 Hello World! I'm Niraimathi, a creative UI/UX enthusiast with a background in frontend development.
 
-🌟 Skills: HTML5, CSS3, JavaScript, React.js, Tailwind Css.
+🎨 I specialize in crafting clean, intuitive user interfaces using Figma and enjoy translating ideas into thoughtful, user-friendly designs.
 
-💼 Currently seeking opportunities to contribute and collaborate on exciting projects.
+💻 Though I began with HTML5, CSS3, Tailwind CSS, JavaScript, and React.js, my passion has evolved toward UI/UX design and building beautiful, accessible digital experiences.
 
-📚 I'm a quick learner and always open to new technologies and frameworks. Let's build amazing user experiences together!
+🚀 I'm eager to collaborate on meaningful projects where design meets function. Always learning, always growing—let’s create something great together!
 
 🔗Feel free to connect with me on :
 
